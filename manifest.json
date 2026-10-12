@@ -1,0 +1,46 @@
+{
+  "manifest_version": "1.0",
+  "org": "datasette",
+  "repo": "datasette-enrichments",
+  "versions": [
+    {
+      "commit": "76a4de39f54de57b42cfb6a77c8908459ceec89d",
+      "parsed_at": "2026-10-12T16:40:55.738357+00:00",
+      "filetree": "filetree/76a4de39f54de57b42cfb6a77c8908459ceec89d.nq.gz",
+      "blobs": [
+        "blob/94a9890a2e6ba32601024d904ec74504f5e4d9d9.nq.gz",
+        "blob/14d5885de2c52f08c362b9b5dc71e135bca10f1a.nq.gz",
+        "blob/ce828c2d5a3a7136dab035dcb5f7860c0b22e12b.nq.gz",
+        "blob/a279768f126b210e024ba7e983a9ee2ccfd15118.nq.gz",
+        "blob/a780ae79e3ba227a7d8a871c58d72d88f24f190d.nq.gz",
+        "blob/6d9755964066fedd5bd6b95154fe327682aa1b0e.nq.gz",
+        "blob/ea6a81bceda982a608d3ec4e272c8baf26748bd4.nq.gz",
+        "blob/e35d8850c9688b1ce82711694692cc574a799396.nq.gz",
+        "blob/4ba6e475df1d0706dfb2df2a859ecaaa6244ef67.nq.gz",
+        "blob/578b1e60197796dbf00368e369630339116cf5d9.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/af9ee28f234999fbdb2e09a582aef04443a78b65.nq.gz",
+        "blob/4cdda0ea97aeb7a7e28ab7e9ba12f0cd72997d60.nq.gz",
+        "blob/6b64e0088e653e7c895d887aef423c3704a92d09.nq.gz",
+        "blob/e40129626db60dc6df288dcf6d5be6e03a8584d8.nq.gz",
+        "blob/78614cc7e55a12384394af3e8735f3f7b0bfba7c.nq.gz",
+        "blob/39219754d3cd72481d924fa5c911487a3c2b1f20.nq.gz",
+        "blob/bf8c1f3922d0b8648e6642693704f46b6640b87b.nq.gz",
+        "blob/175b9b87cf6a3826e3333ae8bc841baed69d53dc.nq.gz",
+        "blob/441f3b537d48b4bd003d4726b604f082ee1c2415.nq.gz",
+        "blob/29ccfb756db7080cf9492a4b22a22aa1cebf2eea.nq.gz",
+        "blob/1ec5eac981f9771b04d89001da1231af7054c67a.nq.gz",
+        "blob/5b40b31684ad549fd1d9dfcbebeaff62d48e13cf.nq.gz",
+        "blob/c483b66e03429b532e23b6f44e817f80638b11f2.nq.gz",
+        "blob/9c9ccedebf79ac8224e2be474c34cbf994dc2f79.nq.gz",
+        "blob/c50221c38dc29230a43c5059fd63ef3aa966e397.nq.gz",
+        "blob/41030af05a0c799ced08ff8ac64603656d981bf6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
