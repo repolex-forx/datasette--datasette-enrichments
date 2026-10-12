@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-enrichments/commit/76a4de39f54de57b42cfb6a77c8908459ceec89d",
       "git:hexsha": "76a4de39f54de57b42cfb6a77c8908459ceec89d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/datasette/datasette-enrichments/commit/cb84c953241bcbac3551c09729f41d77442530ff",
